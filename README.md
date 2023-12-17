@@ -4,11 +4,14 @@ In this final project I am going to study the influence of the socio-economic st
 
 ## Background information
 
-An in-depth paragraph about your project and overview of use.
+
 
 ## Research question and hypotheses
 
-SES and language level
+How does the difference in socio-economic status influence the language proficiency level in children learning the English language?
+
+Children with a low socio-economic status have a lower language proficiency level than children with a high socio-economic status.
+
 
 ## Method
 
